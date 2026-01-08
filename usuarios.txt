@@ -1,0 +1,3 @@
+U1767887782503;Misael;misa@gmail.com;L23456;7.0
+U1767888101424;Misael;misa2@gmail.com;L23456;102.0
+U1767888534181;Misa;misa3@gmail.com;L23456;0.0
